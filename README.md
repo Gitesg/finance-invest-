@@ -7,7 +7,6 @@ The API connects to the database using:
 DATABASE_URL=postgresql://postgres:password@db:5432/fintech_db
 ```
 
-You can customize this in the `docker-compose.yml`.
 
 ---
 
@@ -109,6 +108,7 @@ Covers edge cases:
 * Detect products below threshold
 
 ---
+
 
 
 
