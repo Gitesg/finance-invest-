@@ -2,8 +2,9 @@
 
 from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.orm import relationship
-from .database import Base
+from app.db.database import Base
 from sqlalchemy.sql import func
+
 
 class Products(Base):
     __tablename__="products"
