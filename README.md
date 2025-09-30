@@ -1,14 +1,14 @@
 
 
 ````markdown
-# Finance Invest API
+Finance Invest API
 
 A modern fintech API for investment and finance management, built with **Python**, **FastAPI**, and **PostgreSQL**.  
 Easily deployable with **Docker Compose** for seamless local development.
 
 ---
 
-## ✨ Features
+✨ Features
 
 - RESTful API for managing **financial data and investments**
 - Built with **FastAPI** (Uvicorn server)
@@ -22,7 +22,7 @@ Easily deployable with **Docker Compose** for seamless local development.
 
 ---
 
-## 🚀 Quick Start
+🚀 Quick Start
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ git clone https://github.com/Gitesg/finance-invest-.git
 cd finance-invest-
 ````
 
-### Start the Application
+Start the Application
 
 ```bash
 docker-compose up
@@ -159,5 +159,6 @@ Covers edge cases:
 * Detect products below threshold
 
 ---
+
 
 
