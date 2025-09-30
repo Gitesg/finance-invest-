@@ -22,14 +22,14 @@ Once the server is running, access Swagger UI at:
 
 ```
 .
-├── app/                # Main API application
-│   ├── models.py       # SQLAlchemy models
-│   ├── schemas.py      # Pydantic schemas
-│   ├── database.py     # DB session and engine
-│   └── main.py         # FastAPI entrypoint
-├── Dockerfile          # API container definition
-├── docker-compose.yml  # Multi-container orchestration
-└── README.md           # Project information
+├── app/                
+│   ├── models.py       
+│   ├── schemas.py      
+│   ├── database.py     
+│   └── main.py         
+├── Dockerfile          
+├── docker-compose.yml  
+└── README.md           
 ```
 
 ---
@@ -108,6 +108,7 @@ Covers edge cases:
 * Detect products below threshold
 
 ---
+
 
 
 
