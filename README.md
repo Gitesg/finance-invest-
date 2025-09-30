@@ -1,6 +1,4 @@
-Got it 👍 — I’ll merge everything (your **Finance Invest API** description, setup instructions, and a full **endpoint reference with example requests**) into a single clean `README.md`.
 
-Here’s the full file content ⬇️
 
 ````markdown
 # Finance Invest API
@@ -161,4 +159,5 @@ Covers edge cases:
 * Detect products below threshold
 
 ---
+
 
